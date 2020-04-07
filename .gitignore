@@ -5,4 +5,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-*.pyc
+funcoes.pyc
+banco.pyc
+alunos.pyc
